@@ -43,7 +43,7 @@ curl -L -X GET 'http://localhost:9000/movies' | jq
 
 [![Open in IDX](https://cdn.idx.dev/btn/open_dark_32.svg)](https://idx.google.com/import?url=https://github.com/ravuthz/go-crud-api)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://github.com/ravuthz/go-crud-api)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/ravuthz/go-crud-api)
 
 [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ravuthz/go-crud-api)
 
